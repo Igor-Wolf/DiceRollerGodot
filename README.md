@@ -58,8 +58,9 @@ Os dados são gerados por código (`dice_geometry.gd`): mesh facetado, colisão 
 desenhado em tempo real. O shader (`shaders/dado.gdshader`) mistura a cor do corpo com a dos números, por isso a troca
 de cor é instantânea e vale para todos os dados do mesmo tipo.
 
+## Apresentação
 
 
-
+![Organização dos Arquivos](https://github.com/user-attachments/assets/2350fa77-5c6b-47d3-a7aa-40f3fcd1883a)
 
 - O APk completo pode ser baixado [aqui](https://github.com/Igor-Wolf/DiceRollerGodot/releases/download/v1.0/Dice.Roller.apk).
