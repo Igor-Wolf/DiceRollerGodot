@@ -57,3 +57,9 @@ O projeto usa o renderizador **Compatibilidade (GL)**, que roda em praticamente 
 Os dados são gerados por código (`dice_geometry.gd`): mesh facetado, colisão por casco convexo e um atlas de números
 desenhado em tempo real. O shader (`shaders/dado.gdshader`) mistura a cor do corpo com a dos números, por isso a troca
 de cor é instantânea e vale para todos os dados do mesmo tipo.
+
+
+
+
+
+- O APk completo pode ser baixado [aqui](https://github.com/Igor-Wolf/DiceRollerGodot/releases/download/v1.0/Dice.Roller.apk).
