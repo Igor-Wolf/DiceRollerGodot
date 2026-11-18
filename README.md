@@ -60,7 +60,6 @@ de cor é instantânea e vale para todos os dados do mesmo tipo.
 
 ## Apresentação
 
-
-![Organização dos Arquivos](https://github.com/user-attachments/assets/2350fa77-5c6b-47d3-a7aa-40f3fcd1883a)
+![Organização dos Arquivos](https://raw.githubusercontent.com/Igor-Wolf/DiceRollerGodot/refs/heads/main/cover.png)
 
 - O APk completo pode ser baixado [aqui](https://github.com/Igor-Wolf/DiceRollerGodot/releases/download/v1.0/Dice.Roller.apk).
